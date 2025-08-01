@@ -58,7 +58,7 @@
     "typescript": "^5.8.2"
   },
   "peerDependencies": {
-    "baileys": "^6.7.17"
+    "baileys": "^6.7.18"
   },
   "peerDependenciesMeta": {
     "baileys": {
