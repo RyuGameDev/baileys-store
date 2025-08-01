@@ -58,10 +58,10 @@
     "typescript": "^5.8.2"
   },
   "peerDependencies": {
-    "ryu-baileys": "^6.7.19"
+    "ryu-bail": "^6.7.19"
   },
   "peerDependenciesMeta": {
-    "ryu-baileys": {
+    "ryu-bail": {
       "optional": false
     }
   },
