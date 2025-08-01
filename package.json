@@ -41,7 +41,7 @@
     "@types/jest": "^27.5.1",
     "@types/node": "^16.0.0",
     "@types/ws": "^8.0.0",
-    "baileys": "^6.7.18",
+    "ryu-bail": "^6.7.19",
     "conventional-changelog-cli": "^2.2.2",
     "eslint": "^8.0.0",
     "jest": "^27.0.6",
@@ -58,7 +58,7 @@
     "typescript": "^5.8.2"
   },
   "peerDependencies": {
-    "baileys": "^6.7.18"
+    "ryu-baileys": "^6.7.19"
   },
   "peerDependenciesMeta": {
     "baileys": {
