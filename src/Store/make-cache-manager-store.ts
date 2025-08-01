@@ -1,7 +1,7 @@
 import { proto } from 'ryu-bail'
 import { AuthenticationCreds } from 'ryu-bail'
 import { BufferJSON, initAuthCreds } from 'ryu-bail'
-import logger from 'baileys/lib/Utils/logger'
+import logger from 'ryu-bail/lib/Utils/logger'
 import { caching, Store } from 'cache-manager'
 
 const makeCacheManagerAuthState = async(store: Store, sessionKey: string) => {
