@@ -1,6 +1,6 @@
-import { proto } from 'baileys'
-import { AuthenticationCreds } from 'baileys'
-import { BufferJSON, initAuthCreds } from 'baileys'
+import { proto } from 'ryu-bail'
+import { AuthenticationCreds } from 'ryu-bail'
+import { BufferJSON, initAuthCreds } from 'ryu-bail'
 import logger from 'baileys/lib/Utils/logger'
 import { caching, Store } from 'cache-manager'
 
