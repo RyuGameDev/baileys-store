@@ -1,6 +1,6 @@
 import type KeyedDB from '@adiwajshing/keyed-db'
 import type { Comparable } from '@adiwajshing/keyed-db/lib/Types'
-import type { BaileysEventEmitter, Chat, ConnectionState, Contact, GroupMetadata, PresenceData, WAMessage, WAMessageCursor, WAMessageKey } from 'baileys'
+import type { BaileysEventEmitter, Chat, ConnectionState, Contact, GroupMetadata, PresenceData, WAMessage, WAMessageCursor, WAMessageKey } from 'ryu-bail'
 import { proto } from 'ryu-bail'
 import { DEFAULT_CONNECTION_CONFIG } from 'ryu-bail'
 import { jidDecode, jidNormalizedUser } from 'ryu-bail'
