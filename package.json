@@ -41,11 +41,11 @@
     "@types/jest": "^27.5.1",
     "@types/node": "^16.0.0",
     "@types/ws": "^8.0.0",
-    "baileys": "^6.7.17",
+    "baileys": "^6.7.18",
     "conventional-changelog-cli": "^2.2.2",
     "eslint": "^8.0.0",
     "jest": "^27.0.6",
-    "jimp": "^1.6.0",
+    "jimp": "^0.16.1",
     "json": "^11.0.0",
     "link-preview-js": "^3.0.0",
     "open": "^8.4.2",
@@ -57,8 +57,13 @@
     "typedoc-plugin-markdown": "4.4.2",
     "typescript": "^5.8.2"
   },
-"peerDependencies": {
-  "@adiwajshing/baileys": "^6.7.18"
+  "peerDependencies": {
+    "baileys": "^6.7.18"
+  },
+  "peerDependenciesMeta": {
+    "baileys": {
+      "optional": false
+    }
   },
   "packageManager": "yarn@1.22.19",
   "engines": {
