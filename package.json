@@ -61,7 +61,7 @@
     "ryu-baileys": "^6.7.19"
   },
   "peerDependenciesMeta": {
-    "baileys": {
+    "ryu-baileys": {
       "optional": false
     }
   },
